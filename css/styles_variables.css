@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca:400&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Big+Shoulders+Display:700&display=swap');
+
+:root
+{
+    --color-bright-orange: hsl(31, 77%, 52%);
+    --color-dark-cyan: hsl(184, 100%, 22%);
+    --color-very-dark-cyan: hsl(179, 100%, 13%);
+
+    --color-transparent-white: hsla(0, 0%, 100%, 0.75);
+    --color-very-light-gray: hsl(0, 0%, 95%);
+
+    --font-size: 15px;
+    --width-mobile: 360px;
+    --width-desktop: 950px;
+
+}
+
+
